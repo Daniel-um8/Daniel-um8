@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix" style="height:150px; width:100%;">
-
 <h1 align="center"><b>Hi, I'm Daniel Ugalde</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## About me

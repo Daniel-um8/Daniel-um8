@@ -4,7 +4,7 @@
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-I’m a **Sound Engineer** who discovered a deep interest in programming while studying my original career. Since 2024, I’ve decided to **specialize in software development** — a field that has always sparked my curiosity.
+I’m a Sound Engineer who was first introduced to programming during my studies, where I learned the fundamentals of coding. Since 2024, I’ve decided to specialize in software development — a field that has always sparked my curiosity.
 
 I am expanding my knowledge in both **front-end** and **back-end development**, and I’m passionate about building innovative and useful applications.  
 

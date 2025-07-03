@@ -7,6 +7,7 @@
 I’m a **Sound Engineer** who discovered a deep interest in programming while studying my original career. Since 2024, I’ve decided to **specialize in software development** — a field that has always sparked my curiosity.
 
 I am expanding my knowledge in both **front-end** and **back-end development**, and I’m passionate about building innovative and useful applications.  
+
 Currently, I'm working on a collaborative software development project with friends called [**TerminalCore**](https://github.com/TerminalCore-Labs), where we are building exciting new apps.
 
 - 🌱 I’m currently learning:

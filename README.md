@@ -22,7 +22,7 @@ Currently, I'm working on a collaborative software development project with frie
 
 ## 🚀 My Skills Include
 
-### 🧠 Languages
+### Languages
 
 <span>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -33,7 +33,7 @@ Currently, I'm working on a collaborative software development project with frie
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
 </span>
 
-### 🧰 Tools & Technologies
+### Tools & Technologies
 
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -45,7 +45,7 @@ Currently, I'm working on a collaborative software development project with frie
   <img src="https://img.shields.io/badge/ProTools-000000?style=for-the-badge&logo=avid&logoColor=purple">
 </span>
 
-### 🧩 Frameworks
+### Frameworks
 
 <span>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">

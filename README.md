@@ -14,7 +14,7 @@ Currently, I'm working on a collaborative software development project with frie
   - FastAPI
   - React
   - Linux
-- 👯 I’m open to collaborating on open-source or team projects.
+- 🙌🏻 I’m open to collaborating on open-source or team projects.
 - 💬 Ask me about: Python, Bash scripting, or Linux configurations.
 - 📫 Reach me at: [daniel.um1993@gmail.com](mailto:daniel.um1993@gmail.com)
 
